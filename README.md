@@ -4,17 +4,17 @@ An **Unofficial JioSaavn API** for downloading high-quality songs, albums, playl
 
 > ⚡ Originally inspired by [Sumit Kolhe's JioSaavn API](https://github.com/sumitkolhe/jiosaavn-api). Huge thanks for the foundation! 🙌  
 
----
+### 🌈 Features  
 
-## 📚 Documentation  
+- **High-Quality Downloads**: Get songs, albums, and playlists in the best quality available.  
+- **Easy Integration**: Simple API endpoints for seamless integration into your projects.  
+- **Open Source**: Fully open-source with a permissive MIT license.  
 
-For detailed usage instructions, refer to the **[API Documentation](https://saavn.dev/docs)**.  
+### 🛠️ Tech Stack  
 
----
-
-## 🆕 Changelog  
-
-Check out the **[CHANGELOG](CHANGELOG.md)** for updates and improvements.  
+- **Bun/Node.js**: For a fast and efficient runtime.  
+- **Cloudflare Workers/Vercel**: For easy deployment and scalability.  
+- **Modern JavaScript**: Utilizing the latest JS features for a clean and maintainable codebase.
 
 ---
 
@@ -58,40 +58,19 @@ Easily deploy JioSaavn API to **Cloudflare Workers** or **Vercel**.
 
 ---
 
+## 📚 Documentation  
+
+For detailed usage instructions, refer to the **[API Documentation](https://saavn.dev/docs)**.  
+
+## 🆕 Changelog  
+
+Check out the **[CHANGELOG](CHANGELOG.md)** for updates and improvements.  
+
 ## 📜 License  
 
 This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**. See the **[LICENSE](LICENSE)** file for more details.  
 
-> **Credit:** Special thanks to [Sumit Kolhe](https://github.com/sumitkolhe) for the original [JioSaavn API](https://github.com/sumitkolhe/jiosaavn-api). 🚀  
-
----
-
-### 🌟 Like This Project?  
-
-If you find this API useful, consider giving a ⭐ on [GitHub](https://github.com/4nuxd/jiosaavanapi) and supporting the original creator!  
-
----
-
-## 🎨 Modern and Cool Readme  
-
-### 🌈 Features  
-
-- **High-Quality Downloads**: Get songs, albums, and playlists in the best quality available.  
-- **Easy Integration**: Simple API endpoints for seamless integration into your projects.  
-- **Open Source**: Fully open-source with a permissive MIT license.  
-
-### 🛠️ Tech Stack  
-
-- **Bun/Node.js**: For a fast and efficient runtime.  
-- **Cloudflare Workers/Vercel**: For easy deployment and scalability.  
-- **Modern JavaScript**: Utilizing the latest JS features for a clean and maintainable codebase.  
-
-### 📊 Project Stats  
-
-![GitHub stars](https://img.shields.io/github/stars/4nuxd/jiosaavanapi?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/4nuxd/jiosaavanapi?style=social)  
-![GitHub issues](https://img.shields.io/github/issues/4nuxd/jiosaavanapi)  
-![GitHub pull requests](https://img.shields.io/github/issues-pr/4nuxd/jiosaavanapi)  
+> **Credit:** Special thanks to [Sumit Kolhe](https://github.com/sumitkolhe) for the original [JioSaavn API](https://github.com/sumitkolhe/jiosaavn-api). 🚀    
 
 ### 🤝 Contributing  
 
@@ -99,7 +78,7 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for
 
 ### 📫 Contact  
 
-Have questions or need help? Open an issue or reach out to us on [GitHub](https://github.com/4nuxd/jiosaavanapi).  
+Have questions or need help? Open an issue or reach out to us on [GitHub](https://t.me/piratexd).  
 
 ---
 
