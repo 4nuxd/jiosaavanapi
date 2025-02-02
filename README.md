@@ -1,5 +1,3 @@
-
-
 # 🎵 JioSaavn API  
 
 An **Unofficial JioSaavn API** for downloading high-quality songs, albums, playlists, and more from [JioSaavn](https://jiosaavn.com).  
@@ -71,3 +69,44 @@ This project is licensed under the **[MIT License](https://opensource.org/licens
 ### 🌟 Like This Project?  
 
 If you find this API useful, consider giving a ⭐ on [GitHub](https://github.com/4nuxd/jiosaavanapi) and supporting the original creator!  
+
+---
+
+## 🎨 Modern and Cool Readme  
+
+### 🌈 Features  
+
+- **High-Quality Downloads**: Get songs, albums, and playlists in the best quality available.  
+- **Easy Integration**: Simple API endpoints for seamless integration into your projects.  
+- **Open Source**: Fully open-source with a permissive MIT license.  
+
+### 🛠️ Tech Stack  
+
+- **Bun/Node.js**: For a fast and efficient runtime.  
+- **Cloudflare Workers/Vercel**: For easy deployment and scalability.  
+- **Modern JavaScript**: Utilizing the latest JS features for a clean and maintainable codebase.  
+
+### 📊 Project Stats  
+
+![GitHub stars](https://img.shields.io/github/stars/4nuxd/jiosaavanapi?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/4nuxd/jiosaavanapi?style=social)  
+![GitHub issues](https://img.shields.io/github/issues/4nuxd/jiosaavanapi)  
+![GitHub pull requests](https://img.shields.io/github/issues-pr/4nuxd/jiosaavanapi)  
+
+### 🤝 Contributing  
+
+We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started.  
+
+### 📫 Contact  
+
+Have questions or need help? Open an issue or reach out to us on [GitHub](https://github.com/4nuxd/jiosaavanapi).  
+
+---
+
+### 🌟 Support the Project  
+
+If you find this API useful, consider giving a ⭐ on [GitHub](https://github.com/4nuxd/jiosaavanapi) and supporting the original creator!  
+
+---
+
+**Enjoy the music! 🎶**
