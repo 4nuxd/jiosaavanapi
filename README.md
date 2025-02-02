@@ -1,54 +1,84 @@
-# JioSaavn API
+Here's your enhanced README with proper credit to the original author and a polished look:  
 
-![GitHub License](https://img.shields.io/github/license/sumitkolhe/jiosaavn-api)
-![GitHub Release](https://img.shields.io/github/v/release/sumitkolhe/jiosaavn-api)
+---
 
-An Unofficial API for downloading high-quality songs, albums, playlists, and more from [JioSaavn](https://jiosaavn.com).
+# 🎵 JioSaavn API  
 
-## 📚 Documentation
+![GitHub License](https://img.shields.io/github/license/4nuxd/jiosaavanapi)  
+![GitHub Release](https://img.shields.io/github/v/release/4nuxd/jiosaavanapi)  
+![GitHub Stars](https://img.shields.io/github/stars/4nuxd/jiosaavanapi?style=social)  
+![GitHub Forks](https://img.shields.io/github/forks/4nuxd/jiosaavanapi?style=social)  
 
-Check out the [API documentation](https://saavn.dev/docs) for detailed information on how to use the API.
+An **Unofficial JioSaavn API** for downloading high-quality songs, albums, playlists, and more from [JioSaavn](https://jiosaavn.com).  
 
-## 📰 Changelog
+> ⚡ Originally inspired by [Sumit Kolhe's JioSaavn API](https://github.com/sumitkolhe/jiosaavn-api). Huge thanks for the foundation! 🙌  
 
-For a detailed list of changes, see the [CHANGELOG](CHANGELOG.md).
+---
 
-## 🔌 Running Locally
+## 📚 Documentation  
 
-> [!NOTE]
-> You need `Bun(1.0.29+)` or `Node.js(v20+)`
+For detailed usage instructions, refer to the **[API Documentation](https://saavn.dev/docs)**.  
 
-1. Clone the repository:
+---
 
-   ```sh
-   git clone https://github.com/sumitkolhe/jiosaavn-api
-   cd jiosaavn-api
-   ```
+## 🆕 Changelog  
 
-2. Install the required dependencies:
+Check out the **[CHANGELOG](CHANGELOG.md)** for updates and improvements.  
 
-   ```sh
-   bun install
-   ```
+---
 
-3. Launch the development server:
+## 🚀 Running Locally  
 
-   ```sh
-   bun run dev
-   ```
+> **Requirements:**  
+> - [Bun (v1.0.29+)](https://bun.sh/) or [Node.js (v20+)](https://nodejs.org/)  
 
-## ☁️ Deploying Your Own Instance
+### 1️⃣ Clone the Repository  
 
-JioSaavn API can be deployed to either Cloudflare Workers or Vercel. Below are the instructions for deploying to each platform.
+```sh
+git clone https://github.com/4nuxd/jiosaavn-api
+cd jiosaavn-api
+```
 
-### Cloudflare Workers
+### 2️⃣ Install Dependencies  
 
-[![Deploy with Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sumitkolhe/jiosaavn-api)
+```sh
+bun install
+```
 
-### Vercel
+### 3️⃣ Start Development Server  
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sumitkolhe/jiosaavn-api)
+```sh
+bun run dev
+```
 
-## 📜 License
+---
 
-This project is distributed under the [MIT License](https://opensource.org/licenses/MIT). For more information, see the [LICENSE](LICENSE) file included in this repository.
+## ☁️ Deploying Your Own Instance  
+
+Easily deploy JioSaavn API to **Cloudflare Workers** or **Vercel**.  
+
+### 🔹 Cloudflare Workers  
+
+[![Deploy with Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/4nuxd/jiosaavanapi)  
+
+### 🔹 Vercel  
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/4nuxd/jiosaavanapi)  
+
+---
+
+## 📜 License  
+
+This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**. See the **[LICENSE](LICENSE)** file for more details.  
+
+> **Credit:** Special thanks to [Sumit Kolhe](https://github.com/sumitkolhe) for the original [JioSaavn API](https://github.com/sumitkolhe/jiosaavn-api). 🚀  
+
+---
+
+### 🌟 Like This Project?  
+
+If you find this API useful, consider giving a ⭐ on [GitHub](https://github.com/4nuxd/jiosaavanapi) and supporting the original creator!  
+
+---
+
+This version makes the README look cleaner, adds proper credit, and enhances the visual appeal. Let me know if you want any more changes! 🚀
