@@ -4,11 +4,6 @@ Here's your enhanced README with proper credit to the original author and a poli
 
 # 🎵 JioSaavn API  
 
-![GitHub License](https://img.shields.io/github/license/4nuxd/jiosaavanapi)  
-![GitHub Release](https://img.shields.io/github/v/release/4nuxd/jiosaavanapi)  
-![GitHub Stars](https://img.shields.io/github/stars/4nuxd/jiosaavanapi?style=social)  
-![GitHub Forks](https://img.shields.io/github/forks/4nuxd/jiosaavanapi?style=social)  
-
 An **Unofficial JioSaavn API** for downloading high-quality songs, albums, playlists, and more from [JioSaavn](https://jiosaavn.com).  
 
 > ⚡ Originally inspired by [Sumit Kolhe's JioSaavn API](https://github.com/sumitkolhe/jiosaavn-api). Huge thanks for the foundation! 🙌  
