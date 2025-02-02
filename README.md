@@ -66,8 +66,6 @@ For detailed usage instructions, refer to the **[API Documentation](https://saav
 
 Check out the **[CHANGELOG](CHANGELOG.md)** for updates and improvements.  
 
-> **Credit:** Special thanks to [Sumit Kolhe](https://github.com/sumitkolhe) for the original [JioSaavn API](https://github.com/sumitkolhe/jiosaavn-api). 🚀    
-
 ### 📫 Contact  
 
 Have questions or need help? Open an issue or reach out to us on [GitHub](https://t.me/piratexd).  
