@@ -66,15 +66,7 @@ For detailed usage instructions, refer to the **[API Documentation](https://saav
 
 Check out the **[CHANGELOG](CHANGELOG.md)** for updates and improvements.  
 
-## 📜 License  
-
-This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**. See the **[LICENSE](LICENSE)** file for more details.  
-
 > **Credit:** Special thanks to [Sumit Kolhe](https://github.com/sumitkolhe) for the original [JioSaavn API](https://github.com/sumitkolhe/jiosaavn-api). 🚀    
-
-### 🤝 Contributing  
-
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started.  
 
 ### 📫 Contact  
 
@@ -83,6 +75,10 @@ Have questions or need help? Open an issue or reach out to us on [GitHub](https:
 ### 🌟 Support the Project  
 
 If you find this API useful, consider giving a ⭐ on [GitHub](https://github.com/4nuxd/jiosaavanapi) and supporting the original creator!  
+
+## 📜 License  
+
+This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**. See the **[LICENSE](LICENSE)** file for more details.  
 
 ---
 
