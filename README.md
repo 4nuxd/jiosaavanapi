@@ -71,7 +71,3 @@ This project is licensed under the **[MIT License](https://opensource.org/licens
 ### 🌟 Like This Project?  
 
 If you find this API useful, consider giving a ⭐ on [GitHub](https://github.com/4nuxd/jiosaavanapi) and supporting the original creator!  
-
----
-
-This version makes the README look cleaner, adds proper credit, and enhances the visual appeal. Let me know if you want any more changes! 🚀
