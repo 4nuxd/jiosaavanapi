@@ -60,7 +60,7 @@ Easily deploy JioSaavn API to **Cloudflare Workers** or **Vercel**.
 
 ### 📚 Documentation  
 
-For detailed usage instructions, refer to the **[API Documentation](https://saavn.dev/docs)**.  
+For detailed usage instructions, refer to the **[API Documentation](https://jiosaavanapi-4nuxd.vercel.app/docs)**.  
 
 ### 🆕 Changelog  
 
