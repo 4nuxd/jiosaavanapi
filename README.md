@@ -80,8 +80,6 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for
 
 Have questions or need help? Open an issue or reach out to us on [GitHub](https://t.me/piratexd).  
 
----
-
 ### 🌟 Support the Project  
 
 If you find this API useful, consider giving a ⭐ on [GitHub](https://github.com/4nuxd/jiosaavanapi) and supporting the original creator!  
