@@ -58,11 +58,11 @@ Easily deploy JioSaavn API to **Cloudflare Workers** or **Vercel**.
 
 ---
 
-## 📚 Documentation  
+### 📚 Documentation  
 
 For detailed usage instructions, refer to the **[API Documentation](https://saavn.dev/docs)**.  
 
-## 🆕 Changelog  
+### 🆕 Changelog  
 
 Check out the **[CHANGELOG](CHANGELOG.md)** for updates and improvements.  
 
@@ -74,7 +74,7 @@ Have questions or need help? Open an issue or reach out to us on [GitHub](https:
 
 If you find this API useful, consider giving a ⭐ on [GitHub](https://github.com/4nuxd/jiosaavanapi) and supporting the original creator!  
 
-## 📜 License  
+### 📜 License  
 
 This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**. See the **[LICENSE](LICENSE)** file for more details.  
 
